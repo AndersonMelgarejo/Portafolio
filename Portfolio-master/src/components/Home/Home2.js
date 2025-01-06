@@ -19,36 +19,44 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            I am passionate about software development and have learned a lot along the way.
               <br />
-              <br />I am fluent in classics like
+              <br />I have experience creating solutions with
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Java. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              I implemented binary persistence in projects and used 
+              <b className="purple"> AWS</b> in them. &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+              Worked with  {" "}
                 <b className="purple">
-                  Blockchain.
+                APIs {" "}
+                </b>
+                 and designed web pages with {" "}
+                <b className="purple">
+                HTML, CSS and JavaScript.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              My main focus has been <b className="purple">Java, </b> 
+              but I'm also learning <b className="purple">React </b>
+              to improve my web development skills
               <i>
+                In addition, I have intermediate knowledge in
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  office 
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; 
+              automation, which allows me to
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> manage projects</b>
+                {" "}
+                efficiently.
               </i>
             </p>
           </Col>
@@ -67,7 +75,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/AndersonMelgarejo"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +85,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://x.com/MelgarejoAnder"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +95,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/ander-melgarejo/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +105,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/anderson7u7r"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
