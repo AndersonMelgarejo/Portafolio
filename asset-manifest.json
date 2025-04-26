@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.76ee4528.css",
-    "main.js": "/Portafolio/static/js/main.80fb2841.js",
+    "main.js": "/Portafolio/static/js/main.fb31b2b1.js",
     "static/js/415.8f1246c8.chunk.js": "/Portafolio/static/js/415.8f1246c8.chunk.js",
     "static/js/787.ae0d8d37.chunk.js": "/Portafolio/static/js/787.ae0d8d37.chunk.js",
     "static/media/Urbann.png": "/Portafolio/static/media/Urbann.29180288518861119a12.png",
-    "static/media/YarenAndersonMelgarejoCuenca.pdf": "/Portafolio/static/media/YarenAndersonMelgarejoCuenca.202f5f6c2dccad247df8.pdf",
     "static/media/home-main.svg": "/Portafolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/Portafolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/YarenAndersonMelgarejoCuenca.pdf": "/Portafolio/static/media/YarenAndersonMelgarejoCuenca.938f97807584bd1f4b8b.pdf",
     "static/media/home-bg.jpg": "/Portafolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/GestorDeInventario.png": "/Portafolio/static/media/GestorDeInventario.98f9bbc22214ab0ef9f7.png",
     "static/media/GestorInformatico.png": "/Portafolio/static/media/GestorInformatico.d950488649144e45416a.png",
@@ -17,12 +17,12 @@
     "index.html": "/Portafolio/index.html",
     "static/media/logo.svg": "/Portafolio/static/media/logo.81099f8e8796608620e145fb00410897.svg",
     "main.76ee4528.css.map": "/Portafolio/static/css/main.76ee4528.css.map",
-    "main.80fb2841.js.map": "/Portafolio/static/js/main.80fb2841.js.map",
+    "main.fb31b2b1.js.map": "/Portafolio/static/js/main.fb31b2b1.js.map",
     "415.8f1246c8.chunk.js.map": "/Portafolio/static/js/415.8f1246c8.chunk.js.map",
     "787.ae0d8d37.chunk.js.map": "/Portafolio/static/js/787.ae0d8d37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76ee4528.css",
-    "static/js/main.80fb2841.js"
+    "static/js/main.fb31b2b1.js"
   ]
 }
